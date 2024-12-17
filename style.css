@@ -1,0 +1,192 @@
+/*
+Theme Name: skolko mojno
+Theme URI: https://wordpress.org/themes/twentytwentyfive/
+Author: the WordPress team
+Author URI: https://wordpress.org
+Description: plz rabotai
+Version: 1.0
+ */
+font-face {
+    font-family: "Roboto Flex";
+    src: url("fonts/Roboto Flex.otf") format("opentype"),
+    url("fonts/Roboto Flex.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+body{
+    margin: 0  auto;
+    background-color: #202228;
+}
+.header{
+    width: 1616px;
+    height: 50px;
+    эbackground: #3C3C3B; 
+    margin-left: 152px;
+    margin-top: 74px;
+    font-family: Krona One;
+}
+p {
+    font-family: "Roboto Flex";
+}
+.container{
+    width: 100%;
+    padding: 0 0;
+    margin: 0 auto;
+    эbackground: #a8a846; 
+}
+.button, .button1, .button2, .button3, .button4, .button5, .button6, .button7, .button8, .button9{
+    text-align: center;
+    vertical-align: middle;
+    width: 50px;
+    height: 33px;
+    line-height: 50px;
+    font-family: Krona One;
+    font-size: 40px;
+    color: white;
+}
+.logo{
+    margin-right: 152px;
+}
+.flex{
+    display: flex;
+    width: 1616px;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 898px;
+    эbackground: #1dc6cc
+}
+.knopki{
+    width: 700px;
+    display:flex;
+    justify-content: space-between;
+    эbackground: #1dc6cc
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.kartinka{
+    margin-top: 68px;
+    margin-left: 152px;
+}
+.text{
+    position: absolute;
+    left: 288px;
+    top: 410px;
+    width: 600px;
+    height: 226px;
+    color: #202228;
+    font-size: 70px;
+    font-family: "Roboto Flex";
+    font-weight: 500;
+}
+.text2{
+    position: absolute;
+    left: 288px;
+    top: 720px;
+    width: 600px;
+    height: 226px;
+    color: #202228;
+    font-size: 25px;
+    font-family: "Roboto Flex";
+    font-weight: 300;
+}
+.qr{
+    position: absolute;
+    left: 518px;
+    top: 720px;
+}
+.qr2{
+    position: absolute;
+    left: 638px;
+    top: 720px;
+}
+.text3{
+    margin-left: 152px;
+    margin-top: 130px;
+    width:354px;
+    height: 50px;
+    color: white;
+    font-size: 45px;
+    font-family: "Roboto Flex";
+    font-weight: 300;
+}
+.text4{
+    margin-left: 152px;
+    margin-top: 50px;
+    width: 1616px;
+    height: 140px;
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto Flex";
+    font-weight: 100;
+}
+.text5{
+    margin-left: 152px;
+    margin-top: 130px;
+    width:554px;
+    height: 50px;
+    color: white;
+    font-size: 45px;
+    font-family: "Roboto Flex";
+    font-weight: 300;
+}
+.text6{
+    margin-left: 152px;
+    margin-top: 50px;
+    width: 1500px;
+    height: 210px;
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto Flex";
+    font-weight: 100;
+}
+.text7{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.text8{
+    color: white;
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 65px;
+    margin-left: 152px;
+    font-family: "Roboto Flex";
+}
+.text9{
+    margin-left: 152px;
+    margin-top: 60px;
+    width: 1500px;
+    height: 210px;
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto Flex";
+    font-weight: 100;
+}
+.text10{
+    position: absolute;
+    right: 152px;
+    top: 276px;
+    width: 650px;
+    height: 210px;
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto Flex";
+    font-weight: 100;
+}
+.text11{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+gifka{
+    width: 1616px;
+    height: 909px;
+}
